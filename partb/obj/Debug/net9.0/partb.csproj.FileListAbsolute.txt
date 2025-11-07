@@ -1,0 +1,14 @@
+/Users/zainab/assignment9/partb/obj/Debug/net9.0/partb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zainab/assignment9/partb/obj/Debug/net9.0/partb.AssemblyInfoInputs.cache
+/Users/zainab/assignment9/partb/obj/Debug/net9.0/partb.AssemblyInfo.cs
+/Users/zainab/assignment9/partb/obj/Debug/net9.0/partb.csproj.CoreCompileInputs.cache
+/Users/zainab/assignment9/partb/bin/Debug/net9.0/partb
+/Users/zainab/assignment9/partb/bin/Debug/net9.0/partb.deps.json
+/Users/zainab/assignment9/partb/bin/Debug/net9.0/partb.runtimeconfig.json
+/Users/zainab/assignment9/partb/bin/Debug/net9.0/partb.dll
+/Users/zainab/assignment9/partb/bin/Debug/net9.0/partb.pdb
+/Users/zainab/assignment9/partb/obj/Debug/net9.0/partb.dll
+/Users/zainab/assignment9/partb/obj/Debug/net9.0/refint/partb.dll
+/Users/zainab/assignment9/partb/obj/Debug/net9.0/partb.pdb
+/Users/zainab/assignment9/partb/obj/Debug/net9.0/partb.genruntimeconfig.cache
+/Users/zainab/assignment9/partb/obj/Debug/net9.0/ref/partb.dll

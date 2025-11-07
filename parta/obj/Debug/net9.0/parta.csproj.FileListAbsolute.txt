@@ -1,0 +1,14 @@
+/Users/zainab/assignment9/parta/bin/Debug/net9.0/parta
+/Users/zainab/assignment9/parta/bin/Debug/net9.0/parta.deps.json
+/Users/zainab/assignment9/parta/bin/Debug/net9.0/parta.runtimeconfig.json
+/Users/zainab/assignment9/parta/bin/Debug/net9.0/parta.dll
+/Users/zainab/assignment9/parta/bin/Debug/net9.0/parta.pdb
+/Users/zainab/assignment9/parta/obj/Debug/net9.0/parta.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zainab/assignment9/parta/obj/Debug/net9.0/parta.AssemblyInfoInputs.cache
+/Users/zainab/assignment9/parta/obj/Debug/net9.0/parta.AssemblyInfo.cs
+/Users/zainab/assignment9/parta/obj/Debug/net9.0/parta.csproj.CoreCompileInputs.cache
+/Users/zainab/assignment9/parta/obj/Debug/net9.0/parta.dll
+/Users/zainab/assignment9/parta/obj/Debug/net9.0/refint/parta.dll
+/Users/zainab/assignment9/parta/obj/Debug/net9.0/parta.pdb
+/Users/zainab/assignment9/parta/obj/Debug/net9.0/parta.genruntimeconfig.cache
+/Users/zainab/assignment9/parta/obj/Debug/net9.0/ref/parta.dll

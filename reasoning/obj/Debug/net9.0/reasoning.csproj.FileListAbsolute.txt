@@ -1,0 +1,14 @@
+/Users/zainab/assignment9/reasoning/bin/Debug/net9.0/reasoning
+/Users/zainab/assignment9/reasoning/bin/Debug/net9.0/reasoning.deps.json
+/Users/zainab/assignment9/reasoning/bin/Debug/net9.0/reasoning.runtimeconfig.json
+/Users/zainab/assignment9/reasoning/bin/Debug/net9.0/reasoning.dll
+/Users/zainab/assignment9/reasoning/bin/Debug/net9.0/reasoning.pdb
+/Users/zainab/assignment9/reasoning/obj/Debug/net9.0/reasoning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zainab/assignment9/reasoning/obj/Debug/net9.0/reasoning.AssemblyInfoInputs.cache
+/Users/zainab/assignment9/reasoning/obj/Debug/net9.0/reasoning.AssemblyInfo.cs
+/Users/zainab/assignment9/reasoning/obj/Debug/net9.0/reasoning.csproj.CoreCompileInputs.cache
+/Users/zainab/assignment9/reasoning/obj/Debug/net9.0/reasoning.dll
+/Users/zainab/assignment9/reasoning/obj/Debug/net9.0/refint/reasoning.dll
+/Users/zainab/assignment9/reasoning/obj/Debug/net9.0/reasoning.pdb
+/Users/zainab/assignment9/reasoning/obj/Debug/net9.0/reasoning.genruntimeconfig.cache
+/Users/zainab/assignment9/reasoning/obj/Debug/net9.0/ref/reasoning.dll

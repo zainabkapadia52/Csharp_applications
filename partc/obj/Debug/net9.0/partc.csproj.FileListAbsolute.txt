@@ -1,0 +1,14 @@
+/Users/zainab/assignment9/partc/bin/Debug/net9.0/partc
+/Users/zainab/assignment9/partc/bin/Debug/net9.0/partc.deps.json
+/Users/zainab/assignment9/partc/bin/Debug/net9.0/partc.runtimeconfig.json
+/Users/zainab/assignment9/partc/bin/Debug/net9.0/partc.dll
+/Users/zainab/assignment9/partc/bin/Debug/net9.0/partc.pdb
+/Users/zainab/assignment9/partc/obj/Debug/net9.0/partc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zainab/assignment9/partc/obj/Debug/net9.0/partc.AssemblyInfoInputs.cache
+/Users/zainab/assignment9/partc/obj/Debug/net9.0/partc.AssemblyInfo.cs
+/Users/zainab/assignment9/partc/obj/Debug/net9.0/partc.csproj.CoreCompileInputs.cache
+/Users/zainab/assignment9/partc/obj/Debug/net9.0/partc.dll
+/Users/zainab/assignment9/partc/obj/Debug/net9.0/refint/partc.dll
+/Users/zainab/assignment9/partc/obj/Debug/net9.0/partc.pdb
+/Users/zainab/assignment9/partc/obj/Debug/net9.0/partc.genruntimeconfig.cache
+/Users/zainab/assignment9/partc/obj/Debug/net9.0/ref/partc.dll
